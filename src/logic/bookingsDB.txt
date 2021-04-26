@@ -1,0 +1,6 @@
+bookingId,parkingSpace,isPaid,time,duration,plateNumnber,userEmail
+40,5,false,02:49,30,32xyz,sdfs
+60,10,false,03:06,30,123asd,test@gmail.com
+80,12,false,null,30,dsfds,test@gmail.com
+50,13,false,null,30,dfsf3425435,test@gmail.com
+50,20,false,null,60,123xyz,globaltester@gmail.com

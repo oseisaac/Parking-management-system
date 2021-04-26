@@ -1,0 +1,9 @@
+firstname,lastname,email,password,usertype
+Isaac,E,osei@gmail.com,123456,SA
+one,kinfis,one@gmail.com,king,TPA
+jame,sam,jame@gmail.com,kins123,C
+peter,null,peter@my.yorku.ca,123,C
+jame,davidson,davison@my.yorku.ca,1896521,C
+dat,gut ,sdfs,sdfsdf,C
+test,tester,test@gmail.com,123456,C
+isaac,dev,isaac@gmail.com,123456,C

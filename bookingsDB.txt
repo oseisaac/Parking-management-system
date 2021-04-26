@@ -1,0 +1,5 @@
+bookingId,parkingSpace,isPaid,time,duration,plateNumnber,userEmail
+20,1,false,null,30,sdf23,test@gmail.com
+20,2,false,null,30,saf32,isaac@gmail.com
+30,3,false,null,30,gfh,isaac@gmail.com
+40,10,false,null,20,dsfds,isaac@gmail.com
