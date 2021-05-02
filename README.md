@@ -17,6 +17,8 @@ registered customer can select the space number from their device online to init
 
 Download the runnable application and start up [HERE](https://github.com/oseisaac/Parking-management-system/blob/main/Parking-Management-System.jar) to run Parking Management System Application.
 
+## System Design
+![DESIGN](https://github.com/oseisaac/Parking-management-system/blob/main/demo-images/PMS.jpg)
 
 ## Preview
 
