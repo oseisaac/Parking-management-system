@@ -19,17 +19,25 @@ Download the runnable application and start up [HERE](https://github.com/oseisaa
 
 
 ## Preview
+
+
 ![Login](https://github.com/oseisaac/Parking-management-system/blob/main/demo-images/1.jpg)
+
+### Customer
 ![Customer - Options](https://github.com/oseisaac/Parking-management-system/blob/main/demo-images/2.jpg)
 ![Customer - Book Parking Space ](https://github.com/oseisaac/Parking-management-system/blob/main/demo-images/3.jpg)
 ![Customer - Payment ](https://github.com/oseisaac/Parking-management-system/blob/main/demo-images/4.jpg)
 ![Customer - Cancle A Parking Space ](https://github.com/oseisaac/Parking-management-system/blob/main/demo-images/5.jpg)
 ![Customer - View booking ](https://github.com/oseisaac/Parking-management-system/blob/main/demo-images/7.jpg)
+
+### Parking Authority
 ![Parking Authority - Landing page ](https://github.com/oseisaac/Parking-management-system/blob/main/demo-images/8-1.jpg)
 ![Parking Authority - Options ](https://github.com/oseisaac/Parking-management-system/blob/main/demo-images/8-2.jpg)
 ![Parking Authority - Add Parking space ](https://github.com/oseisaac/Parking-management-system/blob/main/demo-images/8-3.jpg)
 ![Parking Authority -  ](https://github.com/oseisaac/Parking-management-system/blob/main/demo-images/8-4.jpg)
 ![Parking Authority - Cancle Request ](https://github.com/oseisaac/Parking-management-system/blob/main/demo-images/8-5.jpg)
+
+### System Administrator
 ![System Administrator Landing page ](https://github.com/oseisaac/Parking-management-system/blob/main/demo-images/9-1.jpg)
 ![System Administrator - Change User Payment Status ](https://github.com/oseisaac/Parking-management-system/blob/main/demo-images/9-2.jpg)
 ![System Administrator - Remove Officer ](https://github.com/oseisaac/Parking-management-system/blob/main/demo-images/9-3.jpg)
